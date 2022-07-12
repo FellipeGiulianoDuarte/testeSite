@@ -2,4 +2,5 @@ a ideia é escrever uma matriz de digitos aleatórios, salvar no json, ler o jso
 
 observações:
 
-1-
+1- arrumar index dados.json
+2- dar parse no javascript que exibe os dados no html
